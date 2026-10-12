@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "xpushstream"
 version = "0.1.0"
-description = "A Python-native real-time event stream SDK for X Web Push."
+description = "Python SDK for real-time X (formerly Twitter) notifications: new posts from accounts with notifications enabled, likes on your posts, and new followers."
 readme = "README.md"
 requires-python = ">=3.10"
 license = "MIT"

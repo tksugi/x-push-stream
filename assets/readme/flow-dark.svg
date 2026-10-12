@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-labelledby="title desc">
+  <title id="title">XPushStream event flow</title>
+  <desc id="desc">Conceptual flow: X Web Push notifications are received and decrypted by XPushStream, then consumed in Python with async for.</desc>
+  <rect width="1200" height="200" rx="16" fill="#161b22"/>
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <g id="push-source">
+      <text x="195" y="95" font-size="44" font-weight="600" fill="#f0f6fc">X Web Push</text>
+      <text x="195" y="137" font-size="26" fill="#9198a1">notification</text>
+    </g>
+    <g id="sdk">
+      <text x="600" y="95" font-size="44" font-weight="600" fill="#58a6ff">XPushStream</text>
+      <text x="600" y="137" font-size="26" fill="#9198a1">receive · decrypt</text>
+    </g>
+    <g id="consumer">
+      <text x="1005" y="95" font-family="Consolas, monospace" font-size="44" font-weight="600" fill="#f0f6fc">async for</text>
+      <text x="1005" y="137" font-size="26" fill="#9198a1">Python event</text>
+    </g>
+  </g>
+  <g id="event-path" fill="none" stroke="#58a6ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 361 87 H 406 M 397 78 L 406 87 L 397 96"/>
+    <path d="M 794 87 H 839 M 830 78 L 839 87 L 830 96"/>
+  </g>
+</svg>
