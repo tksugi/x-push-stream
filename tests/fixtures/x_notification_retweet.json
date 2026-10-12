@@ -1,0 +1,22 @@
+{
+  "registration_ids": [
+    "https://push.example.invalid/synthetic-subscription"
+  ],
+  "title": "Synthetic notification",
+  "body": "Synthetic notification body",
+  "icon": "https://images.example.invalid/synthetic-avatar.png",
+  "timestamp": "1760000000000",
+  "tag": "synthetic-tag",
+  "data": {
+    "lang": "en",
+    "bundle_text": "synthetic bundle text",
+    "type": "retweet",
+    "uri": "/synthetic/status/123",
+    "impression_id": "synthetic-impression-id",
+    "title": "Synthetic notification",
+    "body": "Synthetic notification body",
+    "tag": "synthetic-tag",
+    "scribe_target": "favorite",
+    "multi_title": "Synthetic group title"
+  }
+}

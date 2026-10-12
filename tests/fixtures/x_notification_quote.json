@@ -1,0 +1,21 @@
+{
+  "registration_ids": [
+    "https://push.example.invalid/synthetic-subscription"
+  ],
+  "title": "Synthetic author",
+  "body": "synthetic quote post",
+  "icon": "https://images.example.invalid/synthetic-avatar.png",
+  "timestamp": "1760000000000",
+  "tag": "tweet-123",
+  "data": {
+    "lang": "en",
+    "bundle_text": "synthetic bundle text",
+    "type": "tweet",
+    "uri": "/synthetic/status/123",
+    "impression_id": "synthetic-impression-id",
+    "title": "Synthetic author",
+    "body": "synthetic quote post",
+    "tag": "tweet-123",
+    "scribe_target": "tweet"
+  }
+}

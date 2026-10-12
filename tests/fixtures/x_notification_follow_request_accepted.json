@@ -1,0 +1,24 @@
+{
+  "registration_ids": [
+    "https://push.example.invalid/synthetic-subscription"
+  ],
+  "title": "Synthetic notification",
+  "body": "Synthetic notification body",
+  "icon": "https://images.example.invalid/synthetic-avatar.png",
+  "timestamp": "1760000000000",
+  "tag": "follow_request_accepted",
+  "data": {
+    "lang": "en",
+    "bundle_text": "synthetic bundle text",
+    "title": "Synthetic notification",
+    "body": "Synthetic notification body",
+    "tag": "follow_request_accepted",
+    "type": "follow_request_accepted",
+    "uri": "/synthetic",
+    "impression_id": "synthetic-impression-id",
+    "scribe_target": "follow_request_accepted",
+    "multi_uri": "/synthetic_group",
+    "multi_body": "",
+    "multi_title": "Synthetic group title"
+  }
+}

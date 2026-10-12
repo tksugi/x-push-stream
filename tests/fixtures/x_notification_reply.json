@@ -1,0 +1,21 @@
+{
+  "registration_ids": [
+    "https://push.example.invalid/synthetic-subscription"
+  ],
+  "title": "Synthetic author",
+  "body": "synthetic reply",
+  "icon": "https://images.example.invalid/synthetic-avatar.png",
+  "timestamp": "1760000000000",
+  "tag": "reply-123",
+  "data": {
+    "lang": "en",
+    "bundle_text": "synthetic bundle text",
+    "type": "reply",
+    "uri": "/synthetic/status/123",
+    "impression_id": "synthetic-impression-id",
+    "title": "Synthetic author",
+    "body": "synthetic reply",
+    "tag": "reply-123",
+    "scribe_target": "reply"
+  }
+}

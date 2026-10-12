@@ -1,0 +1,100 @@
+{
+  "source": "https://abs.twimg.com/responsive-web/client-web/ondemand.s.c93af3b19aab5e67a.js",
+  "method": "X module executed in Node VM with fabricated HTML/key and measured Chromium CSS; WebRTC unavailable",
+  "relative_seconds": 123456,
+  "random_byte": 42,
+  "vectors": [
+    {
+      "result": "KiotJD82CQAbEhVsZ35xSENaXVSvprmwi4KFnJfu4fjzys3E39YpIDsyNQwHHhFoY2rIKyq887VAum62jMC4E2OTQbPHKQ",
+      "keyframes": {
+        "color": [
+          "#194173",
+          "#b9875f"
+        ],
+        "transform": [
+          "rotate(0deg)",
+          "rotate(218deg)"
+        ],
+        "easing": "cubic-bezier(0.25,-0.22,0.71,0.73)"
+      },
+      "duration": 4096,
+      "currentTime": 300,
+      "hashInput": "POST!/i/api/1.1/notifications/settings/login.json!123456obfiowerehiring143f740fd70a3d70a3d701eb851eb851eb801eb851eb851eb80fd70a3d70a3d700",
+      "seed": 0,
+      "computed_style": {
+        "color": "rgb(20, 63, 116)",
+        "transform": "matrix(0.992415, -0.122936, 0.122936, 0.992415, 0, 0)"
+      },
+      "rtc_result": "KiotJD82CQAbEhVsZ35xSENaXVSvprmwi4KFnJfu4fjzys3E39YpIDsyNQwHHhFoY2rIKyq887VAum62jMC4E2OTQbPHKQ"
+    },
+    {
+      "result": "KisiJTw3DgEYE2ptZH92SUBbUlWsp76xiIOanZTv5vnwy8LF3NcuITgzCg0EHxZpYGrIKyrHjroGhvNZ3Z8+GTO4dAKjKQ",
+      "keyframes": {
+        "color": [
+          "#0a3264",
+          "#c89650"
+        ],
+        "transform": [
+          "rotate(0deg)",
+          "rotate(201deg)"
+        ],
+        "easing": "cubic-bezier(0.25,-0.22,0.71,0.73)"
+      },
+      "duration": 4096,
+      "currentTime": 0,
+      "hashInput": "POST!/i/api/1.1/notifications/settings/login.json!123456obfiowerehiringa3264100100",
+      "seed": 1,
+      "computed_style": {
+        "color": "rgb(10, 50, 100)",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)"
+      },
+      "rtc_result": "KisiJTw3DgEYE2ptZH92SUBbUlWsp76xiIOanZTv5vnwy8LF3NcuITgzCg0EHxZpYGrIKyrHjroGhvNZ3Z8+GTO4dAKjKQ"
+    },
+    {
+      "result": "Ki0kPzYJABsSFWxnfnFIQ1pdVK+mubCLgoWcl+7h+PPKzcTf1ikgOzI1DAceEWhjemrIKypB4Mh8m8o7GO2zqBeu/h80KQ",
+      "keyframes": {
+        "color": [
+          "#10386a",
+          "#c29056"
+        ],
+        "transform": [
+          "rotate(0deg)",
+          "rotate(208deg)"
+        ],
+        "easing": "cubic-bezier(0.25,-0.22,0.71,0.73)"
+      },
+      "duration": 4096,
+      "currentTime": 790,
+      "hashInput": "POST!/i/api/1.1/notifications/settings/login.json!123456obfiowerehiring11396a10051eb851eb851ec0051eb851eb851ec100",
+      "seed": 7,
+      "computed_style": {
+        "color": "rgb(17, 57, 106)",
+        "transform": "matrix(0.999771, 0.02139, -0.02139, 0.999771, 0, 0)"
+      },
+      "rtc_result": "Ki0kPzYJABsSFWxnfnFIQ1pdVK+mubCLgoWcl+7h+PPKzcTf1ikgOzI1DAceEWhjemrIKypB4Mh8m8o7GO2zqBeu/h80KQ"
+    },
+    {
+      "result": "KiU8Nw4BGBNqbWR/dklAW1JVrKe+sYiDmp2U7+b58MvCxdzXLiE4MwoNBB8WaWB7cmrIKyrIpPz3gUD8gh5cy9TcotS+KQ",
+      "keyframes": {
+        "color": [
+          "#184072",
+          "#ba885e"
+        ],
+        "transform": [
+          "rotate(0deg)",
+          "rotate(217deg)"
+        ],
+        "easing": "cubic-bezier(0.25,-0.22,0.71,0.73)"
+      },
+      "duration": 4096,
+      "currentTime": 170,
+      "hashInput": "POST!/i/api/1.1/notifications/settings/login.json!123456obfiowerehiring143e73101999999999999a01999999999999a100",
+      "seed": 15,
+      "computed_style": {
+        "color": "rgb(20, 62, 115)",
+        "transform": "matrix(0.995372, -0.0960924, 0.0960924, 0.995372, 0, 0)"
+      },
+      "rtc_result": "KiU8Nw4BGBNqbWR/dklAW1JVrKe+sYiDmp2U7+b58MvCxdzXLiE4MwoNBB8WaWB7cmrIKyrIpPz3gUD8gh5cy9TcotS+KQ"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "registration_ids": [
+    "https://push.example.invalid/synthetic-subscription"
+  ],
+  "title": "Synthetic author",
+  "body": "synthetic mention",
+  "icon": "https://images.example.invalid/synthetic-avatar.png",
+  "timestamp": "1760000000000",
+  "tag": "synthetic-tag",
+  "data": {
+    "lang": "en",
+    "bundle_text": "synthetic bundle text",
+    "type": "mention",
+    "uri": "/synthetic/status/123",
+    "impression_id": "synthetic-impression-id",
+    "title": "Synthetic author",
+    "body": "synthetic mention",
+    "tag": "synthetic-tag",
+    "scribe_target": "mention"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "registration_ids": [
+    "https://push.example.invalid/synthetic-subscription"
+  ],
+  "title": "Synthetic follower",
+  "body": "Synthetic account followed you",
+  "icon": "https://images.example.invalid/synthetic-avatar.png",
+  "timestamp": "1760000000000",
+  "tag": "follower",
+  "data": {
+    "lang": "en",
+    "bundle_text": "synthetic bundle text",
+    "type": "follower",
+    "uri": "/synthetic_follower",
+    "impression_id": "synthetic-impression-id",
+    "title": "Synthetic follower",
+    "body": "Synthetic account followed you",
+    "tag": "follower",
+    "scribe_target": "synthetic-target",
+    "multi_uri": "/synthetic_group",
+    "multi_body": "",
+    "multi_title": "Synthetic follow group title"
+  }
+}

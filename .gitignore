@@ -1,0 +1,35 @@
+# Python and development tools
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+uv.lock
+
+# Credentials, local subscription state and private traffic captures
+.env
+.env.*
+!.env.example
+.xpushstream/
+private/
+.playwright-cli/
+output/playwright/
+*.pem
+*.key
+*.har
+
+# Editors / operating system
+AGENTS.md
+.agents/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
